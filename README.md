@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the code for a simulated OS developed. The simulated OS supports various Shell commands, process management, scheduling techniques, and implements demand paging with demand loading and LRU page replacement.
+This repository contains the code for a simulated OS. The simulated OS supports various Shell commands, process management, scheduling techniques, and implements demand paging with demand loading and LRU page replacement.
 
 ## Functionalities
 
